@@ -1,4 +1,4 @@
-# RupeeSense — Y2K Old-Money Edition
+# RupeeSense — https://rupee-sense-mocha.vercel.app/
 
 A React + Vite + Supabase starter application for personal financial tracking, balance forecasting, shared expense rooms, settlement calculations and UPI hand-off.
 
